@@ -1,3 +1,6 @@
+body{
+   background-color: #EAF6F6;
+}
 img{
 
 width: 150px;
@@ -8,7 +11,25 @@ ul li{
     list-style-type: square;
 } 
 ul li a{
-    
+    text-decoration: none;
     color: black;
     font-size: 1.5em;
 }              
+hr{
+border-style: none;
+  border-top:5px dotted #66bfbf ;
+ width: 10%;
+ 
+ 
+}
+h1 , h2 , h3{
+    color: #66bfbf;
+}
+
+radius: 22px;
+    border-radius: 22px;
+ 
+}
+h1 , h2 , h3{
+    color: #66bfbf;
+}
